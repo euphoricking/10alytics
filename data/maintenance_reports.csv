@@ -1,0 +1,101 @@
+report_id,installation_id,date,technician,issue_type,resolution_time_min,parts_replaced,cost
+MNT-3001,INST-1003,2023-01-01,Tom Wilson,Panel Cleaning,157,Connector C-200,324.37
+MNT-3002,INST-1001,2023-01-02,Emily Davis,Inverter Replacement,137,Panel B-50,257.64
+MNT-3003,INST-1001,2023-01-03,John Smith,Panel Cleaning,159,Panel B-50,401.13
+MNT-3004,INST-1002,2023-01-04,Sarah Lee,Wiring Issue,123,Inverter A-100,95.95
+MNT-3005,INST-1004,2023-01-05,John Smith,Inverter Replacement,98,Connector C-200,381.58
+MNT-3006,INST-1001,2023-01-06,John Smith,Panel Cleaning,125,Inverter A-100,206.38
+MNT-3007,INST-1004,2023-01-07,John Smith,Inverter Replacement,165,Inverter A-100,222.36
+MNT-3008,INST-1001,2023-01-08,Tom Wilson,Inverter Replacement,159,Inverter A-100,395.65
+MNT-3009,INST-1004,2023-01-09,John Smith,Inverter Replacement,148,Inverter A-100,241.62
+MNT-3010,INST-1004,2023-01-10,John Smith,Panel Cleaning,48,Inverter A-100,147.82
+MNT-3011,INST-1001,2023-01-11,Sarah Lee,Panel Cleaning,107,,143.19
+MNT-3012,INST-1001,2023-01-12,Emily Davis,Panel Cleaning,93,,418.61
+MNT-3013,INST-1003,2023-01-13,John Smith,Panel Cleaning,122,Connector C-200,361.82
+MNT-3014,INST-1004,2023-01-14,Tom Wilson,Inverter Replacement,82,Inverter A-100,232.03
+MNT-3015,INST-1004,2023-01-15,Emily Davis,Inverter Replacement,160,Inverter A-100,130.85
+MNT-3016,INST-1002,2023-01-16,Sarah Lee,Wiring Issue,179,Connector C-200,264.66
+MNT-3017,INST-1001,2023-01-17,Sarah Lee,Wiring Issue,104,Panel B-50,320.28
+MNT-3018,INST-1003,2023-01-18,Emily Davis,Panel Cleaning,89,,332.31
+MNT-3019,INST-1003,2023-01-19,Emily Davis,Panel Cleaning,45,,254.54
+MNT-3020,INST-1004,2023-01-20,Tom Wilson,Wiring Issue,83,Connector C-200,314.92
+MNT-3021,INST-1003,2023-01-21,Emily Davis,Inverter Replacement,51,Connector C-200,490.11
+MNT-3022,INST-1004,2023-01-22,Emily Davis,Inverter Replacement,47,Panel B-50,346.43
+MNT-3023,INST-1004,2023-01-23,John Smith,Inverter Replacement,50,Connector C-200,285.27
+MNT-3024,INST-1001,2023-01-24,Sarah Lee,Inverter Replacement,71,Connector C-200,407.19
+MNT-3025,INST-1002,2023-01-25,Sarah Lee,Wiring Issue,136,,420.43
+MNT-3026,INST-1002,2023-01-26,Emily Davis,Panel Cleaning,174,Panel B-50,388.38
+MNT-3027,INST-1003,2023-01-27,Tom Wilson,Wiring Issue,91,Connector C-200,480.97
+MNT-3028,INST-1004,2023-01-28,Tom Wilson,Panel Cleaning,100,,405.5
+MNT-3029,INST-1004,2023-01-29,Sarah Lee,Panel Cleaning,71,Panel B-50,369.9
+MNT-3030,INST-1003,2023-01-30,Emily Davis,Inverter Replacement,161,Panel B-50,212.24
+MNT-3031,INST-1002,2023-01-31,John Smith,Panel Cleaning,43,Inverter A-100,116.7
+MNT-3032,INST-1003,2023-02-01,Sarah Lee,Panel Cleaning,176,Inverter A-100,165.75
+MNT-3033,INST-1003,2023-02-02,Sarah Lee,Wiring Issue,42,Inverter A-100,291.77
+MNT-3034,INST-1003,2023-02-03,Tom Wilson,Inverter Replacement,145,,287.75
+MNT-3035,INST-1001,2023-02-04,Emily Davis,Inverter Replacement,47,Inverter A-100,300.5
+MNT-3036,INST-1002,2023-02-05,Emily Davis,Panel Cleaning,102,Inverter A-100,185.25
+MNT-3037,INST-1004,2023-02-06,Sarah Lee,Panel Cleaning,57,Connector C-200,490.77
+MNT-3038,INST-1001,2023-02-07,Emily Davis,Panel Cleaning,168,Panel B-50,170.28
+MNT-3039,INST-1001,2023-02-08,Emily Davis,Wiring Issue,156,,93.8
+MNT-3040,INST-1004,2023-02-09,Sarah Lee,Panel Cleaning,133,Inverter A-100,106.48
+MNT-3041,INST-1003,2023-02-10,John Smith,Inverter Replacement,31,Panel B-50,147.92
+MNT-3042,INST-1002,2023-02-11,John Smith,Wiring Issue,39,Panel B-50,340.52
+MNT-3043,INST-1001,2023-02-12,Tom Wilson,Panel Cleaning,149,Connector C-200,167.98
+MNT-3044,INST-1003,2023-02-13,Tom Wilson,Wiring Issue,46,Inverter A-100,407.03
+MNT-3045,INST-1003,2023-02-14,Sarah Lee,Wiring Issue,114,Panel B-50,433.44
+MNT-3046,INST-1004,2023-02-15,John Smith,Wiring Issue,172,,382.55
+MNT-3047,INST-1002,2023-02-16,Tom Wilson,Inverter Replacement,110,Inverter A-100,131.24
+MNT-3048,INST-1004,2023-02-17,Sarah Lee,Panel Cleaning,37,Connector C-200,348.76
+MNT-3049,INST-1004,2023-02-18,Sarah Lee,Panel Cleaning,103,Connector C-200,76.52
+MNT-3050,INST-1003,2023-02-19,Tom Wilson,Panel Cleaning,138,Connector C-200,317.06
+MNT-3051,INST-1003,2023-02-20,Emily Davis,Panel Cleaning,162,Connector C-200,142.32
+MNT-3052,INST-1004,2023-02-21,John Smith,Wiring Issue,123,,112.74
+MNT-3053,INST-1004,2023-02-22,Emily Davis,Wiring Issue,168,,320.7
+MNT-3054,INST-1002,2023-02-23,Emily Davis,Inverter Replacement,171,Panel B-50,233.03
+MNT-3055,INST-1004,2023-02-24,Sarah Lee,Wiring Issue,168,Panel B-50,379.81
+MNT-3056,INST-1003,2023-02-25,Tom Wilson,Wiring Issue,139,Inverter A-100,256.36
+MNT-3057,INST-1004,2023-02-26,Emily Davis,Wiring Issue,137,Inverter A-100,360.2
+MNT-3058,INST-1003,2023-02-27,John Smith,Panel Cleaning,59,Inverter A-100,370.99
+MNT-3059,INST-1003,2023-02-28,Tom Wilson,Panel Cleaning,91,Inverter A-100,335.1
+MNT-3060,INST-1004,2023-03-01,John Smith,Wiring Issue,39,,418.75
+MNT-3061,INST-1002,2023-03-02,Tom Wilson,Wiring Issue,155,Connector C-200,282.31
+MNT-3062,INST-1001,2023-03-03,Emily Davis,Panel Cleaning,45,,353.19
+MNT-3063,INST-1003,2023-03-04,Sarah Lee,Wiring Issue,169,Connector C-200,147.71
+MNT-3064,INST-1003,2023-03-05,Sarah Lee,Inverter Replacement,148,Inverter A-100,354.36
+MNT-3065,INST-1002,2023-03-06,John Smith,Inverter Replacement,178,,79.88
+MNT-3066,INST-1003,2023-03-07,Sarah Lee,Panel Cleaning,89,Connector C-200,358.44
+MNT-3067,INST-1001,2023-03-08,Sarah Lee,Wiring Issue,147,Connector C-200,77.13
+MNT-3068,INST-1002,2023-03-09,Tom Wilson,Inverter Replacement,148,Panel B-50,373.87
+MNT-3069,INST-1004,2023-03-10,Sarah Lee,Wiring Issue,62,Panel B-50,345.8
+MNT-3070,INST-1004,2023-03-11,Sarah Lee,Inverter Replacement,93,Panel B-50,343.15
+MNT-3071,INST-1002,2023-03-12,John Smith,Wiring Issue,35,Inverter A-100,354.13
+MNT-3072,INST-1001,2023-03-13,John Smith,Panel Cleaning,47,,87.66
+MNT-3073,INST-1002,2023-03-14,Emily Davis,Inverter Replacement,142,Connector C-200,277.64
+MNT-3074,INST-1004,2023-03-15,Tom Wilson,Panel Cleaning,71,,267.96
+MNT-3075,INST-1002,2023-03-16,Tom Wilson,Panel Cleaning,86,,163.26
+MNT-3076,INST-1003,2023-03-17,Emily Davis,Inverter Replacement,160,Panel B-50,427.72
+MNT-3077,INST-1001,2023-03-18,Sarah Lee,Panel Cleaning,146,Connector C-200,377.97
+MNT-3078,INST-1004,2023-03-19,Sarah Lee,Panel Cleaning,114,Panel B-50,454.08
+MNT-3079,INST-1004,2023-03-20,Emily Davis,Inverter Replacement,142,,155.55
+MNT-3080,INST-1004,2023-03-21,Tom Wilson,Inverter Replacement,33,Panel B-50,415.81
+MNT-3081,INST-1001,2023-03-22,John Smith,Panel Cleaning,102,Inverter A-100,318.16
+MNT-3082,INST-1002,2023-03-23,Sarah Lee,Inverter Replacement,91,Connector C-200,289.25
+MNT-3083,INST-1003,2023-03-24,Sarah Lee,Wiring Issue,117,Inverter A-100,365.16
+MNT-3084,INST-1001,2023-03-25,Sarah Lee,Panel Cleaning,78,Connector C-200,157.34
+MNT-3085,INST-1004,2023-03-26,Sarah Lee,Wiring Issue,47,Connector C-200,395.03
+MNT-3086,INST-1001,2023-03-27,Sarah Lee,Wiring Issue,134,,186.95
+MNT-3087,INST-1004,2023-03-28,Sarah Lee,Panel Cleaning,147,Inverter A-100,219.22
+MNT-3088,INST-1003,2023-03-29,John Smith,Panel Cleaning,87,Inverter A-100,89.76
+MNT-3089,INST-1002,2023-03-30,Emily Davis,Wiring Issue,71,Connector C-200,232.21
+MNT-3090,INST-1002,2023-03-31,Tom Wilson,Panel Cleaning,76,Panel B-50,129.62
+MNT-3091,INST-1004,2023-04-01,Emily Davis,Panel Cleaning,85,Connector C-200,390.57
+MNT-3092,INST-1003,2023-04-02,Sarah Lee,Wiring Issue,55,Inverter A-100,435.5
+MNT-3093,INST-1001,2023-04-03,John Smith,Inverter Replacement,55,,355.93
+MNT-3094,INST-1002,2023-04-04,Tom Wilson,Panel Cleaning,89,Inverter A-100,234.54
+MNT-3095,INST-1003,2023-04-05,Sarah Lee,Panel Cleaning,139,Panel B-50,363.36
+MNT-3096,INST-1002,2023-04-06,John Smith,Panel Cleaning,146,,385.77
+MNT-3097,INST-1002,2023-04-07,John Smith,Inverter Replacement,148,Panel B-50,327.9
+MNT-3098,INST-1002,2023-04-08,John Smith,Wiring Issue,100,Connector C-200,477.3
+MNT-3099,INST-1001,2023-04-09,Tom Wilson,Panel Cleaning,97,Connector C-200,175.78
+MNT-3100,INST-1003,2023-04-10,Emily Davis,Wiring Issue,95,Connector C-200,337.3
